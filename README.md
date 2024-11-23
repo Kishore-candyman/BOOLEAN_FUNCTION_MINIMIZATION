@@ -36,7 +36,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ```
 FUNCTION 1
 
-module funct1(a,b,c,d,f1);
+module function1(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
 assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
