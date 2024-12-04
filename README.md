@@ -81,6 +81,7 @@ RegisterNumber: 24900763
 **Output:**
 
 **RTL**
+
 FUNCTION 1
 
 ![de exp2 function1 ss2](https://github.com/user-attachments/assets/bb201ccf-8ba7-4d19-9f2b-7e1c3fc1d382)
@@ -91,6 +92,7 @@ FUNCTION 2
 
 
 **Timing Diagram**
+
 FUNCTION 1
 
 ![de exp 2 function1 ss1](https://github.com/user-attachments/assets/a3e15bec-9289-492f-a834-65d5808fc798)
