@@ -15,6 +15,15 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+FUNCTION 1
+
+![Screenshot 2024-12-03 224457](https://github.com/user-attachments/assets/de103be7-f809-4a3d-b63b-43514bd26512)
+
+
+FUNCTION 2
+
+![Screenshot 2024-12-03 224502](https://github.com/user-attachments/assets/c20052a9-c001-4383-838d-8eedb8b4bb4b)
+
 
 **Logic Diagram**
 
@@ -52,13 +61,16 @@ endmodule
 ```
 
 FUNCTION 1
+
 ![de exp2 function1 ss 3](https://github.com/user-attachments/assets/98cd2d90-86df-4607-ab09-d08254da25d5)
 
 FUNCTION 2
+
 ![de exp2a funct2 ss 3](https://github.com/user-attachments/assets/196e311b-aaca-4804-9e2f-2c158a6fd40b)
 
 
 Developed by: M. KISHORE
+
 RegisterNumber: 24900763
 
 
@@ -68,17 +80,21 @@ RegisterNumber: 24900763
 
 **RTL**
 FUNCTION 1
+
 ![de exp2 function1 ss2](https://github.com/user-attachments/assets/bb201ccf-8ba7-4d19-9f2b-7e1c3fc1d382)
 
 FUNCTION 2
+
 ![de exp2a funct2 ss2](https://github.com/user-attachments/assets/0ebd5f2c-2959-424b-9baf-21228cd19880)
 
 
 **Timing Diagram**
 FUNCTION 1
+
 ![de exp 2 function1 ss1](https://github.com/user-attachments/assets/a3e15bec-9289-492f-a834-65d5808fc798)
 
 FUMCTION 2
+
 ![de exp2a funct2 ss1](https://github.com/user-attachments/assets/6606e101-9a0f-4f8e-a5d3-b4020c995c6d)
 
 
